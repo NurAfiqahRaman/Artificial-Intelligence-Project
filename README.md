@@ -28,7 +28,7 @@ As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner
 
 
 ![Coding](https://github.com/NurAfiqahRaman/Artificial-Intelligence-Project/blob/main/facial%20emotion.png)
-Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
+Figure 1 shows the AI output of detecting the emotion of the user from their facial expression.
 
 
 ## C.  DATASET
