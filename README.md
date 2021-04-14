@@ -1,8 +1,8 @@
-# HUMAN EMOTION RECOGNITION
+# HUMAN FACIAL EMOTION RECOGNITION
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Human Facial Emotion Detection
 
 **Team Members:** 
 - NUR AFIQAH BINTI RAMAN
