@@ -1,11 +1,11 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# HUMAN EMOTION RECOGNITION
 
 ## A. PROJECT SUMMARY
 
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
+- NUR AFIQAH BINTI RAMAN
 - [insert Member Name]
 - [insert Member Name]
 - [insert Member Name]
@@ -13,7 +13,7 @@
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [insert]
+- To detect the emotion captured from people's reaction
 - [insert]
 - [insert]
 
@@ -27,7 +27,7 @@ The best safety measure that can be taken is enforcing the people to wear a face
 As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
+![Coding](https://github.com/NurAfiqahRaman/Artificial-Intelligence-Project/blob/main/fe.jpeg)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
