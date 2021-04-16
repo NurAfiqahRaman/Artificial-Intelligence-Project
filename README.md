@@ -5,16 +5,15 @@
 **Project Title:** Human Facial Emotion Detection
 
 **Team Members:** 
-- NUR AFIQAH BINTI RAMAN
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-
+- Tan Wei Yin
+- Pang Jia Mei
+- Nur Afiqah Binti Raman
+- Mirza Sahid Afridi
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- To detect the emotion captured from people's reaction
-- [insert]
+- To detect and identify the emotion captured from people's face reaction
+- 
 - [insert]
 
 
