@@ -10,7 +10,7 @@
 - Nur Afiqah Binti Raman
 - Mirza Sahid Afridi
 
--  **Objectives:**
+ **Objectives:**
 - in entertainment industries: to propose the most appropriate entertainment for the target audience
 - in robotics: to design smart collaborative or service robots which can interact with humans
 - in marketing: to create specialized adverts, based on the emotional state of the potential customer
