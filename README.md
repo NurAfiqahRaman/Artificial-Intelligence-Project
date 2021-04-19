@@ -10,7 +10,7 @@
 - Nur Afiqah Binti Raman
 - Mirza Sahid Afridi
 
-- [ ] **Objectives:**
+-  **Objectives:**
 - in entertainment industries: to propose the most appropriate entertainment for the target audience
 - in robotics: to design smart collaborative or service robots which can interact with humans
 - in marketing: to create specialized adverts, based on the emotional state of the potential customer
@@ -70,7 +70,7 @@ This dataset consists of 1,376 images belonging to two classes:
 - sad: 1247 images
 - angry: 958 images
 - happy : 1774 images
-- 
+
 Our goal is to train a custom deep learning model to detect whether a person is sad or angry or happy.
 
 How was our human emotion dataset created?
