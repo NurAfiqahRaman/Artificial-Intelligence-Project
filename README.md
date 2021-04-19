@@ -209,7 +209,7 @@ We then took this human emotion classifier and applied it to both images and rea
 
 Our human emotion detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
-[![demo](https://img.youtube.com/vi/-AP9e4ny_KHc/0.jpg)](https://www.youtube.com/watch?v=AP9e4ny_KHc "demo")
+[![demo](https://img.youtube.com/vi/AP9e4ny_KHc/0.jpg)](https://www.youtube.com/watch?v=AP9e4ny_KHc "demo")
 
 
 
